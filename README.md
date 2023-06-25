@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bett-23
 - 👀 I’m interested in ...web programming and software development
 
-- 🌱 I’m currently learning ...3rd year student at university of embu pursuing bachelors of science in computer sciwnce
+- 🌱 I’m currently learning ...3rd year student at university of embu pursuing bachelors of science in computer science
 
 - 💞️ I’m looking to collaborate on ...gti hub to develope my skills
 - 📫 How to reach me ... through my gmail 
